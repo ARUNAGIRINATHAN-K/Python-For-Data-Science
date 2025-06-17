@@ -19,7 +19,7 @@ This repository contains a detailed academic and practical guide on using Python
 
 ## 📁 Repository Structure
 ```
-python-for-datascience-report/
+python-for-datascience/
 │
 ├── README.md
 ├── report/
