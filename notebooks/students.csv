@@ -1,0 +1,4 @@
+Name,Age,Score,Passed
+Alice,25,90,False
+Bob,30,95,False
+Charlie,35,100,True
